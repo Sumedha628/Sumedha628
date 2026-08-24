@@ -17,7 +17,7 @@
 I'm a data professional who works comfortably across the full analytics spectrum, from training deep learning models on medical images to building SQL-backed business dashboards that executives actually use. My background is in Bioinformatics, but my work has since spanned in Healthcare AI, E-commerce Analytics, Customer churn prediction, and Retail sales forecasting. I like being the person who can build the model *and* explain what it means to the room.
 
 Here's the highlight reel:
-- 🧠 Taught a computer to spot brain tumors in MRI scans with **97.7% accuracy** — yes, it's better at this than most humans
+- 🧠 Taught a computer to spot brain tumors in MRI scans with **97.7% accuracy** - yes, it's better at this than most humans
 - 💸 Found **41% of a company's revenue** hiding in a customer segment nobody was watching, just by asking the data the right questions
 - 🔀 Equally at home in Python, SQL, or Power BI — I pick the tool the problem actually needs, not the one I'm most comfortable with
 - 🌱 Currently leveling up on advanced ML/DL, because "good enough" isn't really my thing
