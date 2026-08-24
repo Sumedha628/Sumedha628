@@ -6,15 +6,7 @@
 
 ![Degree](https://img.shields.io/badge/Degree-M.Sc._Bioinformatics-0D1117?style=flat-square&labelColor=14B8A6&color=0D1117)
 ![University](https://img.shields.io/badge/University-JSS_AHER,_Mysuru-0D1117?style=flat-square&labelColor=14B8A6&color=0D1117)
-![Location](https://img.shields.io/badge/Location-Bengaluru,_India-0D1117?style=flat-square&labelColor=14B8A6&color=0D1117)
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4&labelColor=0D1117&color=14B8A6)](https://github.com/Sumedha628)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5EEAD4&labelColor=0D1117&color=14B8A6)](https://linkedin.com/in/sumedhakulkarni628)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=5EEAD4&labelColor=0D1117&color=14B8A6)](mailto:sumedhakulkarni628@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sumedha628&color=14b8a6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Sumedha628?style=flat-square&color=14b8a6&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/Sumedha628?style=flat-square&color=14b8a6&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Karnataka,_India-0D1117?style=flat-square&labelColor=14B8A6&color=0D1117)
 
 </div>
 
@@ -191,34 +183,6 @@ Here's the highlight reel:
 
 <br/>
 
-## 🎓 Education
-
-<div align="center">
-
-![M.Sc. Bioinformatics](https://img.shields.io/badge/M.Sc._Bioinformatics-JSS_AHER,_Mysuru_(2022--2024)-0D1117?style=for-the-badge&labelColor=0D1117&color=14B8A6)
-
-![B.Sc.](https://img.shields.io/badge/B.Sc._Chemistry,_Zoology,_Microbiology-Laxmi_Venkatesh_Desai_College_(2018--2021)-0D1117?style=for-the-badge&labelColor=0D1117&color=14B8A6)
-
-</div>
-
-<br/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumedha628&show_icons=true&theme=transparent&hide_border=false&border_radius=10&border_color=14B8A6&title_color=14B8A6&icon_color=14B8A6&text_color=E6EDF3&bg_color=0D1117" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumedha628&theme=transparent&hide_border=false&border_radius=10&border=14B8A6&ring=14B8A6&fire=10B981&currStreakLabel=14B8A6&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=E6EDF3&background=0D1117" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumedha628&layout=donut-vertical&theme=transparent&hide_border=false&border_radius=10&border_color=14B8A6&title_color=14B8A6&text_color=E6EDF3&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sumedha628&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title_color=14B8A6&icon_color=14B8A6&text_color=E6EDF3&bg_color=0D1117" />
-
-</div>
-
-<br/>
 
 ## 🎯 Currently
 
@@ -237,7 +201,7 @@ Here's the highlight reel:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5EEAD4&labelColor=0D1117&color=14B8A6)](https://linkedin.com/in/sumedhakulkarni628)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=5EEAD4&labelColor=0D1117&color=14B8A6)](mailto:sumedhakulkarni628@gmail.com)
 
-*Turning pixels and rows into decisions — one model, one dashboard at a time.*
+**Turning pixels and rows into decisions — one model, one dashboard at a time.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:14B8A6&height=120&section=footer"/>
 
